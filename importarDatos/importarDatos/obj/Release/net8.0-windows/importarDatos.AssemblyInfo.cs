@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("importarDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5b43dbf06306a4fdb8b202df6dd5ab94a11c10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+446afa367e1e868bab92280a499b38a389b320c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("importarDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("importarDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

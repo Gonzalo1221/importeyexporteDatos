@@ -4,19 +4,19 @@ using System.Formats.Asn1;
 using System.Globalization;
 using System.IO;
 using System.Windows.Forms;
-using importarDatos.Models;
+using importarDatos.Ent;
 using importarDatos.Views;
 using CsvHelper;
 using System.Text;
 
-namespace ImportarDatos.Controllers
+namespace ImportarDatos.Bll
 {
-    public class Controlador
+    public class Bll
     {
         private readonly ApplicationDbContext _context;
         private readonly Formulario _formulario;
 
-        public Controlador(Formulario formulario)
+        public Bll(Formulario formulario)
         {
             _context = new ApplicationDbContext();
             _formulario = formulario;

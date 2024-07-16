@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace importarDatos.Models
+namespace importarDatos.Ent
 {
     public class ApplicationDbContext : DbContext
     {

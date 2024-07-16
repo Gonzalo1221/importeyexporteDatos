@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace importarDatos.Models;
+namespace importarDatos.Ent;
 
 [Table("datoscsv")]
 public class Datos

@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gonzalo01\\source\\repos\\importarDatos\\importarDatos\\importarDatos.csproj",
+      "projectUniqueName": "C:\\Users\\Gonzalo01\\Desktop\\WorkSpace\\importeyexporteDatos\\importarDatos\\importarDatos\\importarDatos.csproj",
       "projectName": "importarDatos",
-      "projectPath": "C:\\Users\\Gonzalo01\\source\\repos\\importarDatos\\importarDatos\\importarDatos.csproj",
+      "projectPath": "C:\\Users\\Gonzalo01\\Desktop\\WorkSpace\\importeyexporteDatos\\importarDatos\\importarDatos\\importarDatos.csproj",
       "packagesPath": "C:\\Users\\Gonzalo01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gonzalo01\\source\\repos\\importarDatos\\importarDatos\\obj\\",
+      "outputPath": "C:\\Users\\Gonzalo01\\Desktop\\WorkSpace\\importeyexporteDatos\\importarDatos\\importarDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

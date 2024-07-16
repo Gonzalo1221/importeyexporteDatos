@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Windows.Forms;
-using importarDatos.Models;
-using ImportarDatos.Controllers;
+using importarDatos.Ent;
+using ImportarDatos.Bll;
 using MetroFramework;
 using MetroFramework.Forms;
 
@@ -11,12 +11,12 @@ namespace importarDatos.Views
 {
     public partial class Formulario : Form
     {
-        private readonly Controlador _controlador;
+        private readonly Bll _controlador;
         public Formulario()
         {
             this.StartPosition = FormStartPosition.CenterScreen;
             InitializeComponent();
-            _controlador = new Controlador(this);
+            _controlador = new Bll(this);
             nudCantidadDatos.Maximum = 100000;
             Formulario_Load();
         }
